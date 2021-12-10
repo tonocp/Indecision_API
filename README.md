@@ -1,24 +1,9 @@
-# 03-fundamentos
+# Indecision_API
 
-## Project setup
-```
-npm install
-```
+This is the GitHub repository for this **Indecision_API** project I made using [Vue.js](https://vuejs.org/) to learn the basics of this framework.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+In this project you can make a question and show the result from this API [YesNo](https://yesno.wtf/).
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Simple but funny! :)
 
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Now it's deployed here

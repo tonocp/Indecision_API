@@ -4,7 +4,7 @@ This is the GitHub repository for this **Indecision_API** project I made using [
 
 In this project you can make a question and show the result from this API --> [YesNo](https://yesno.wtf/).
 
-Also I used [JEST](https://jestjs.io/es-ES/) to learn the basics of Vue Unit Testing.
+I also used [JEST](https://jestjs.io/es-ES/) to learn the basics of Vue Unit Testing with Snapshots, Spies and Mocks.
 
 It was simple but funny! :)
 
